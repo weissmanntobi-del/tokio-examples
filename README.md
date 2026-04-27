@@ -61,5 +61,3 @@ cargo test --bin hw6
 [6]: ./src/assignment-6.rs
 [7]: ./src/assignment-7.rs
 [8]: ./src/assignment-8.rs
-=======
-# tokio-examples
