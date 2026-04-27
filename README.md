@@ -1,5 +1,5 @@
 
-# Learn Tokio
+# Tokio Example
 
 A collection of progressive assignments designed to teach asynchronous
 programming in Rust using [Tokio](https://tokio.rs/). Each assignment builds on
