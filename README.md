@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Learn Tokio
 
 A collection of progressive assignments designed to teach asynchronous
@@ -42,7 +42,7 @@ Tests can be run with:
 cargo test --bin hw6
 ```
 
-> **NOTE:** Replace `hw1` with the assignment number (e.g., `hw2`, `hw3`, etc.).
+**NOTE:** Replace `hw1` with the assignment number (e.g., `hw2`, `hw3`, etc.).
 
 ## Resources
 
@@ -63,4 +63,3 @@ cargo test --bin hw6
 [8]: ./src/assignment-8.rs
 =======
 # tokio-examples
->>>>>>> 1304cb9e10ef9256f85492da0e86c06164915d8d
